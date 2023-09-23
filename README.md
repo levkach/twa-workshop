@@ -31,7 +31,7 @@ Bot starter template based on [grammY](https://grammy.dev/) bot framework.
 2.  Create an environment variables file:
 
 ```bash
-cp .env.example .env
+cp .env .env
 ```
 
 3.  Set BOT_TOKEN [environment variable](#environment-variables) in `.env` file.
